@@ -1,0 +1,3 @@
+include ':invoker:invoker'
+//include ':samples:app' // 用compile方式使用
+//include ':samples:app2' // 用compile project方式使用
